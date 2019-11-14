@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1197430",
+      "name": "house-add",
+      "font_class": "house-add",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "1197437",
+      "name": "house-remove",
+      "font_class": "house-remove",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "1197438",
+      "name": "nightstand",
+      "font_class": "nightstand",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    }
+  ]
+}
